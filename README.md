@@ -2,11 +2,11 @@
 
 ### Subject Matter:
 1. PHP Basic
-  [x] Array assosiative
-  [x] Function
-  [x] Conditional
-  [x] Looping
-  [x] Destructuring
+  - [x] Array assosiative
+  - [x] Function
+  - [x] Conditional
+  - [x] Looping
+  - [x] Destructuring
 
 ---
   
