@@ -2,11 +2,13 @@
 
 ### Subject Matter:
 1. PHP Basic
-  * Array assosiative
-  * Function
-  * Conditional
-  * Looping
-  * Destructuring
+  [x] Array assosiative
+  [x] Function
+  [x] Conditional
+  [x] Looping
+  [x] Destructuring
+
+---
   
 2. PHP CRUD
 3. OOP
