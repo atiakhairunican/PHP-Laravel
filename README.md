@@ -9,12 +9,13 @@
     - [x] Destructuring
 
 ---
-  
-2. PREtest
 
+2. PHP CRUD
 ---
-
-3. PHP CRUD
-4. OOP
+3. OOP
+---
+4. Pretest
+---
 5. Laravel
-6. POStest
+---
+6. Postest
